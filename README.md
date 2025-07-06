@@ -46,7 +46,7 @@ PlanTonic solves this by combining *plant recognition* with *practical care sugg
 
 | Plant Recognition | Care Suggestions |
 |-------------------|------------------|
-|<img width="237" alt="Screenshot 2025-06-27 at 19 43 43" src="https://github.com/user-attachments/assets/4b022979-4a7b-4987-851f-be33565cb4bd" /> | <img width="209" alt="Screenshot 2025-06-27 at 19 44 20" src="https://github.com/user-attachments/assets/093213b2-108f-498b-bb37-a049f2c97dc6" /> |
+|<img width="237" alt="Screenshot 2025-06-27 at 19 43 43" src="https://github.com/user-attachments/assets/4b022979-4a7b-4987-851f-be33565cb4bd"  /> | <img width="209" alt="Screenshot 2025-06-27 at 19 44 20" src="https://github.com/user-attachments/assets/093213b2-108f-498b-bb37-a049f2c97dc6" /> |
 
 
 ---
